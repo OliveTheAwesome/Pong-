@@ -1,1 +1,0 @@
-The pong.html file is the source code for the pong game I coded, if you do not know how to Code or do not want to type!!!
